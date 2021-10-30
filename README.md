@@ -5,7 +5,7 @@ Combining DDD (Domain Driven Design), CQRS pattern (Command Query Responsibility
 ## Installation
 
 ```bash
-$ npm i --save @nestjs-ex/ddd-es
+$ npm i --save @nestjs-ex/tripled
 ```
 
 ## Documentations
